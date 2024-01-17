@@ -6,8 +6,12 @@
 
 <h2> Contact 👋 </h2>
 <div>
-	<img src = "http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://young-jii.github.io/"/>
-	<img src = "https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:forest66young@gmail.com"/>
+	<a href="https://young-jii.github.io/">
+		<img src = "http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github"/>
+	</a>
+	<a href="mailto:forest66young@gmail.com">
+		<img src = "https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"/>
+	</a>
 </div>
 
 <h2> Available Skiils 🦾 </h2>
