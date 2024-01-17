@@ -6,8 +6,8 @@
 
 <h2> Contact 👋 </h2>
 <div>
-	<a href="https://young-jii.github.io/">
-		<img src = "http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github"/>
+	<a href="https://velog.io/@woohwa/posts">
+		<img src = "http://img.shields.io/badge/Velog-41C997?style=flat-square&logo=Velog&logoColor=white"/>
 	</a>
 	<a href="mailto:forest66young@gmail.com">
 		<img src = "https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"/>
