@@ -1,16 +1,28 @@
-### Hi there 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F6EEBF&height=120&section=footer&text=Hello_World&fontSize=30&animation=fadeIn&fontAlignY=60&fontAlign=80&fontColor=ffffff" />
 
-<!--
-**young-jii/young-jii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://hits.seeyoufarm.com">
+	<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyoung-jii&count_bg=%2379C83D&title_bg=%23555555&icon=googlesearchconsole.svg&icon_color=%23E7E7E7&title=helllo&edge_flat=false"/>
+</a>
 
-Here are some ideas to get you started:
+<h2> Contact 👋 </h2>
+<div>
+	<img src = "http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://young-jii.github.io/"/>
+	<img src = "https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:forest66young@gmail.com"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2> Available Skiils 🦾 </h2>
+<div>
+	<img src = "https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+	<img src = "https://img.shields.io/badge/Pandas-130754?style=flat-square&logo=pandas&logoColor=white"/>
+	<img src = "https://img.shields.io/badge/MySQL-23728B?style=flat-square&logo=MySQL&logoColor=white"/>
+	<img src = "https://img.shields.io/badge/Django-0C382A?style=flat-square&logo=Django&logoColor=white"/>
+	<img src = "https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
+	<img src = "https://img.shields.io/badge/Photoshop-051D35?style=flat-square&logo=adobephotoshop&logoColor=white"/>
+</div>
+
+<h2> GitHub Stats </h2>
+<a href="s">
+	<img src = "https://github-readme-stats.vercel.app/api?username=young-jii&show_icons=true&theme=vue"/>
+</a>
+<a href="s">
+	<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=young-jii&show_icons=true&theme=vue" width="42%"/></a>
