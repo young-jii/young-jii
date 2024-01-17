@@ -25,8 +25,7 @@
 </div>
 
 <h2> GitHub Stats </h2>
-<a href="s">
-	<img src = "https://github-readme-stats.vercel.app/api?username=young-jii&show_icons=true&theme=vue"/>
-</a>
-<a href="s">
-	<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=young-jii&show_icons=true&theme=vue" width="42%"/></a>
+<div>
+	<img src = "https://github-readme-stats.vercel.app/api/top-langs?username=young-jii&show_icons=true&theme=vue&layout=compact" width="42%"/>
+	<img src = "https://github-readme-stats.vercel.app/api?username=young-jii&hide=contribs,prs&show_icons=true&theme=vue"/>
+</div>
