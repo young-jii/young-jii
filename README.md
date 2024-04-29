@@ -3,7 +3,8 @@
 <a href="https://hits.seeyoufarm.com">
 	<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyoung-jii&count_bg=%2379C83D&title_bg=%23555555&icon=googlesearchconsole.svg&icon_color=%23E7E7E7&title=helllo&edge_flat=false"/>
 </a>
-
+<br/>
+<br/>
 <h2> Contact 👋 </h2>
 <div>
 	<a href="https://velog.io/@woohwa/posts">
@@ -13,7 +14,8 @@
 		<img src = "https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white"/>
 	</a>
 </div>
-
+<br/>
+<br/>
 <h2> Available Skiils 🦾 </h2>
 <div>
 	<img src = "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/> 
@@ -30,7 +32,8 @@
 	<img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=Anaconda&logoColor=white"/>
 	<img src = "https://img.shields.io/badge/Photoshop-051D35?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
 </div>
-
+<br/>
+<br/>
 <h2> GitHub Stats </h2>
 <div>
 	<img src = "https://github-readme-stats.vercel.app/api/top-langs?username=young-jii&show_icons=true&theme=vue&layout=compact" width="42%"/>
