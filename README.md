@@ -7,21 +7,28 @@
 <h2> Contact 👋 </h2>
 <div>
 	<a href="https://velog.io/@woohwa/posts">
-		<img src = "http://img.shields.io/badge/Velog-41C997?style=flat-square&logo=Velog&logoColor=white"/>
+		<img src = "http://img.shields.io/badge/Velog-41C997?style=for-the-badge&logo=Velog&logoColor=white"/>
 	</a>
 	<a href="mailto:forest66young@gmail.com">
-		<img src = "https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"/>
+		<img src = "https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white"/>
 	</a>
 </div>
 
 <h2> Available Skiils 🦾 </h2>
 <div>
-	<img src = "https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-	<img src = "https://img.shields.io/badge/Pandas-130754?style=flat-square&logo=pandas&logoColor=white"/>
-	<img src = "https://img.shields.io/badge/MySQL-23728B?style=flat-square&logo=MySQL&logoColor=white"/>
-	<img src = "https://img.shields.io/badge/Django-0C382A?style=flat-square&logo=Django&logoColor=white"/>
-	<img src = "https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
-	<img src = "https://img.shields.io/badge/Photoshop-051D35?style=flat-square&logo=adobephotoshop&logoColor=white"/>
+	<img src = "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/> 
+	<img src = "https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>  
+	<br/>
+ 	<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  	<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+	<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+	<br/>
+	<img src = "https://img.shields.io/badge/MySQL-23728B?style=for-the-badge&logo=MySQL&logoColor=white"/>
+	<img src = "https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white"/> 
+	<br/>
+	<img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white"/>
+	<img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=Anaconda&logoColor=white"/>
+	<img src = "https://img.shields.io/badge/Photoshop-051D35?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
 </div>
 
 <h2> GitHub Stats </h2>
