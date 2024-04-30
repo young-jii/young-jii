@@ -39,7 +39,7 @@
 	<img src = "https://github-readme-stats.vercel.app/api/top-langs?username=young-jii&show_icons=true&theme=vue&layout=compact" width="42%"/>
 	<img src = "https://github-readme-stats.vercel.app/api?username=young-jii&hide=contribs,prs&show_icons=true&theme=vue"/>
 </div>
-<h3> Check my Algorithm </h3>
+<h3> Check myself </h3>
 <div>
 	<img src = "http://mazassumnida.wtf/api/v2/generate_badge?boj=woo_hwa"/>
 </div>
