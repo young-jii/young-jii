@@ -1,6 +1,7 @@
 <!-- 변경된 헤더 이미지 -->
 <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:F6E27A,100:F9D423&height=150&section=header&text=🐤__young-jii__🐣&fontSize=40&animation=twinkling&fontAlignY=50&fontAlign=50&fontColor=ffffff&desc=Welcome%20to%20my%20profile!&descAlignY=70&descAlign=50" />
 
+<br/>
 
 <a href="https://hits.seeyoufarm.com">
 	<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyoung-jii&count_bg=%2379C83D&title_bg=%23555555&icon=googlesearchconsole.svg&icon_color=%23E7E7E7&title=helllo&edge_flat=false"/>
