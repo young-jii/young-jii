@@ -16,6 +16,9 @@
 	<a href="mailto:forest66young@gmail.com">
 		<img src = "https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white"/>
 	</a>
+	<a href="https://www.linkedin.com/in/jiyoung-park-3797232b0/">
+		<img src = "http://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=Velog&logoColor=white"/>
+	</a>
 </div>
 <br/>
 <br/>
